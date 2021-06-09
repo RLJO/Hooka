@@ -1,0 +1,109 @@
+[submodule "RL-OtherApps/odoo-addons-2"]
+	path = RL-OtherApps/odoo-addons-2
+	url = git@github.com:RL-OtherApps/odoo-addons-2.git
+	branch = 13.0
+
+[submodule "OCA-MUK/brand"]
+	path = OCA-MUK/brand
+	url = git@github.com:OCA-MUK/brand.git
+	branch = 13.0
+
+[submodule "OCA-MUK/helpdesk"]
+	path = OCA-MUK/helpdesk
+	url = git@github.com:OCA-MUK/helpdesk.git
+	branch = 13.0
+
+[submodule "OCA-MUK/mis-builder"]
+	path = OCA-MUK/mis-builder
+	url = git@github.com:OCA-MUK/mis-builder.git
+	branch = 13.0
+
+[submodule "OCA-MUK/product-attribute"]
+	path = OCA-MUK/product-attribute
+	url = git@github.com:OCA-MUK/product-attribute.git
+	branch = 13.0
+
+[submodule "OCA-MUK/product-variant"]
+	path = OCA-MUK/product-variant
+	url = git@github.com:OCA-MUK/product-variant.git
+	branch = 13.0
+
+[submodule "OCA-MUK/sale-workflow"]
+	path = OCA-MUK/sale-workflow
+	url = git@github.com:OCA-MUK/sale-workflow.git
+	branch = 13.0
+
+[submodule "OCA-MUK/web"]
+	path = OCA-MUK/web
+	url = git@github.com:OCA-MUK/web.git
+	branch = 13.0
+
+[submodule "OCA-MUK/website"]
+	path = OCA-MUK/website
+	url = git@github.com:OCA-MUK/website.git
+	branch = 13.0
+
+[submodule "RL-OtherApps/whatsapp_odoo_pro"]
+	path = RL-OtherApps/whatsapp_odoo_pro
+	url = git@github.com:RL-OtherApps/whatsapp_odoo_pro.git
+	branch = 13.0
+
+[submodule "RLJO/KRS"]
+	path = RLJO/KRS
+	url = git@github.com:RLJO/KRS.git
+	branch = master
+
+[submodule "RLJO/careone"]
+	path = RLJO/careone
+	url = git@github.com:RLJO/careone.git
+	branch = master
+
+[submodule "RLJO/odoo_13"]
+	path = RLJO/odoo_13
+	url = git@github.com:RLJO/odoo_13.git
+	branch = master
+
+[submodule "RLJO/odoo_theme"]
+	path = RLJO/odoo_theme
+	url = git@github.com:RLJO/odoo_theme.git
+	branch = 13.0
+
+[submodule "RLJO/smartarget_odoo"]
+	path = RLJO/smartarget_odoo
+	url = git@github.com:RLJO/smartarget_odoo.git
+	branch = 13.0
+
+[submodule "RLJO/ukka_app"]
+	path = RLJO/ukka_app
+	url = git@github.com:RLJO/ukka_app.git
+	branch = 13-Production
+
+[submodule "RLJO/shared-custom-private"]
+	path = RLJO/shared-custom-private
+	url = git@github.com:RLJO/shared-custom-private.git
+	branch = 13.0
+
+[submodule "RLJO/dn_api_13"]
+	path = RLJO/dn_api_13
+	url = git@github.com:RLJO/dn_api_13.git
+	branch = 13.0
+
+[submodule "RLJO/Jubbagen"]
+	path = RLJO/Jubbagen
+	url = git@github.com:RLJO/Jubbagen.git
+	branch = master
+
+[submodule "RLJO/itprojectllc-odoo"]
+	path = RLJO/itprojectllc-odoo
+	url = git@github.com:RLJO/itprojectllc-odoo.git
+	branch = master
+
+[submodule "RL-OtherApps/website-addons"]
+	path = RL-OtherApps/website-addons
+	url = git@github.com:RL-OtherApps/website-addons.git
+	branch = 13.0
+
+[submodule "OCA-MUK/partner-contact"]
+	path = OCA-MUK/partner-contact
+	url = git@github.com:OCA-MUK/partner-contact.git
+	branch = 13.0
